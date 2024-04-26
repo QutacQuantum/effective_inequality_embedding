@@ -1,0 +1,713 @@
+{
+	"scenario_0": {
+		"article_reward": [
+			[
+				19,
+				16
+			]
+		],
+		"article_weight": [
+			4,
+			6
+		],
+		"knapsack_capacity": [
+			9
+		],
+		"num_x_bits": 2,
+		"num_y_bits": 4,
+		"optimal_solution": 19,
+		"num_optimal": 1
+	},
+	"scenario_1": {
+		"article_reward": [
+			[
+				4,
+				4,
+				1,
+				2
+			]
+		],
+		"article_weight": [
+			2,
+			2,
+			2,
+			3
+		],
+		"knapsack_capacity": [
+			3
+		],
+		"num_x_bits": 4,
+		"num_y_bits": 2,
+		"optimal_solution": 4,
+		"num_optimal": 2
+	},
+	"scenario_2": {
+		"article_reward": [
+			[
+				1,
+				3,
+				5,
+				2,
+				4,
+				1
+			]
+		],
+		"article_weight": [
+			3,
+			2,
+			2,
+			2,
+			3,
+			2
+		],
+		"knapsack_capacity": [
+			3
+		],
+		"num_x_bits": 6,
+		"num_y_bits": 2,
+		"optimal_solution": 5,
+		"num_optimal": 1
+	},
+	"scenario_3": {
+		"article_reward": [
+			[
+				19,
+				19,
+				17,
+				17
+			]
+		],
+		"article_weight": [
+			6,
+			6,
+			3,
+			7
+		],
+		"knapsack_capacity": [
+			10
+		],
+		"num_x_bits": 4,
+		"num_y_bits": 4,
+		"optimal_solution": 36,
+		"num_optimal": 2
+	},
+	"scenario_4": {
+		"article_reward": [
+			[
+				15,
+				15,
+				16,
+				17,
+				17
+			]
+		],
+		"article_weight": [
+			2,
+			6,
+			5,
+			5,
+			4
+		],
+		"knapsack_capacity": [
+			8
+		],
+		"num_x_bits": 5,
+		"num_y_bits": 4,
+		"optimal_solution": 32,
+		"num_optimal": 2
+	},
+	"scenario_5": {
+		"article_reward": [
+			[
+				18,
+				17,
+				19,
+				18,
+				19
+			]
+		],
+		"article_weight": [
+			2,
+			4,
+			5,
+			2,
+			3
+		],
+		"knapsack_capacity": [
+			8
+		],
+		"num_x_bits": 5,
+		"num_y_bits": 4,
+		"optimal_solution": 55,
+		"num_optimal": 1
+	},
+	"scenario_6": {
+		"article_reward": [
+			[
+				19,
+				17,
+				15,
+				17,
+				15,
+				18
+			]
+		],
+		"article_weight": [
+			7,
+			1,
+			6,
+			7,
+			5,
+			3
+		],
+		"knapsack_capacity": [
+			10
+		],
+		"num_x_bits": 6,
+		"num_y_bits": 4,
+		"optimal_solution": 50,
+		"num_optimal": 2
+	},
+	"scenario_7": {
+		"article_reward": [
+			[
+				19,
+				18,
+				16,
+				18,
+				17,
+				16
+			]
+		],
+		"article_weight": [
+			6,
+			7,
+			4,
+			3,
+			3,
+			2
+		],
+		"knapsack_capacity": [
+			8
+		],
+		"num_x_bits": 6,
+		"num_y_bits": 4,
+		"optimal_solution": 51,
+		"num_optimal": 1
+	},
+	"scenario_8": {
+		"article_reward": [
+			[
+				17,
+				16,
+				17,
+				15,
+				18,
+				17,
+				16,
+				18
+			]
+		],
+		"article_weight": [
+			5,
+			4,
+			1,
+			5,
+			4,
+			1,
+			2,
+			3
+		],
+		"knapsack_capacity": [
+			8
+		],
+		"num_x_bits": 8,
+		"num_y_bits": 4,
+		"optimal_solution": 68,
+		"num_optimal": 2
+	},
+	"scenario_9": {
+		"article_reward": [
+			[
+				16,
+				17,
+				17,
+				19,
+				18,
+				16,
+				17,
+				19
+			]
+		],
+		"article_weight": [
+			3,
+			2,
+			5,
+			1,
+			4,
+			4,
+			1,
+			4
+		],
+		"knapsack_capacity": [
+			9
+		],
+		"num_x_bits": 8,
+		"num_y_bits": 4,
+		"optimal_solution": 72,
+		"num_optimal": 1
+	},
+	"scenario_10": {
+		"article_reward": [
+			[
+				19,
+				16,
+				16
+			],
+			[
+				19,
+				16,
+				18
+			]
+		],
+		"article_weight": [
+			2,
+			4,
+			4
+		],
+		"knapsack_capacity": [
+			11,
+			8
+		],
+		"num_x_bits": 6,
+		"num_y_bits": 8,
+		"optimal_solution": 53,
+		"num_optimal": 3
+	},
+	"scenario_11": {
+		"article_reward": [
+			[
+				18,
+				19,
+				17
+			],
+			[
+				18,
+				17,
+				18
+			]
+		],
+		"article_weight": [
+			3,
+			6,
+			2
+		],
+		"knapsack_capacity": [
+			8,
+			11
+		],
+		"num_x_bits": 6,
+		"num_y_bits": 8,
+		"optimal_solution": 55,
+		"num_optimal": 1
+	},
+	"scenario_12": {
+		"article_reward": [
+			[
+				19,
+				16,
+				19,
+				16
+			],
+			[
+				19,
+				16,
+				19,
+				16
+			]
+		],
+		"article_weight": [
+			4,
+			6,
+			4,
+			6
+		],
+		"knapsack_capacity": [
+			9,
+			9
+		],
+		"num_x_bits": 8,
+		"num_y_bits": 8,
+		"optimal_solution": 54,
+		"num_optimal": 4
+	},
+	"scenario_13": {
+		"article_reward": [
+			[
+				18,
+				16,
+				15,
+				19
+			],
+			[
+				16,
+				17,
+				15,
+				16
+			]
+		],
+		"article_weight": [
+			7,
+			1,
+			5,
+			7
+		],
+		"knapsack_capacity": [
+			10,
+			10
+		],
+		"num_x_bits": 8,
+		"num_y_bits": 8,
+		"optimal_solution": 52,
+		"num_optimal": 1
+	},
+	"scenario_14": {
+		"article_reward": [
+			[
+				15,
+				15,
+				18,
+				15,
+				15,
+				18
+			],
+			[
+				15,
+				15,
+				18,
+				15,
+				15,
+				18
+			]
+		],
+		"article_weight": [
+			7,
+			4,
+			3,
+			7,
+			4,
+			3
+		],
+		"knapsack_capacity": [
+			8,
+			8
+		],
+		"num_x_bits": 12,
+		"num_y_bits": 8,
+		"optimal_solution": 66,
+		"num_optimal": 6
+	},
+	"scenario_15": {
+		"article_reward": [
+			[
+				19,
+				17,
+				18,
+				19,
+				17,
+				18
+			],
+			[
+				19,
+				17,
+				18,
+				19,
+				17,
+				18
+			]
+		],
+		"article_weight": [
+			5,
+			5,
+			5,
+			5,
+			5,
+			5
+		],
+		"knapsack_capacity": [
+			8,
+			8
+		],
+		"num_x_bits": 12,
+		"num_y_bits": 8,
+		"optimal_solution": 38,
+		"num_optimal": 2
+	},
+	"scenario_16": {
+		"article_reward": [
+			[
+				19,
+				19,
+				17,
+				17,
+				19,
+				19,
+				17,
+				17
+			],
+			[
+				19,
+				19,
+				17,
+				17,
+				19,
+				19,
+				17,
+				17
+			]
+		],
+		"article_weight": [
+			6,
+			6,
+			3,
+			7,
+			6,
+			6,
+			3,
+			7
+		],
+		"knapsack_capacity": [
+			10,
+			10
+		],
+		"num_x_bits": 16,
+		"num_y_bits": 8,
+		"optimal_solution": 72,
+		"num_optimal": 24
+	},
+	"scenario_17": {
+		"article_reward": [
+			[
+				19,
+				19,
+				17,
+				15,
+				19,
+				15,
+				16,
+				15
+			],
+			[
+				19,
+				15,
+				18,
+				15,
+				15,
+				18,
+				18,
+				17
+			]
+		],
+		"article_weight": [
+			1,
+			6,
+			4,
+			5,
+			7,
+			3,
+			4,
+			5
+		],
+		"knapsack_capacity": [
+			11,
+			9
+		],
+		"num_x_bits": 16,
+		"num_y_bits": 8,
+		"optimal_solution": 91,
+		"num_optimal": 3
+	},
+	"scenario_18": {
+		"article_reward": [
+			[
+				15,
+				18,
+				15,
+				17,
+				16,
+				18,
+				16,
+				16,
+				15
+			],
+			[
+				18,
+				15,
+				18,
+				17,
+				16,
+				16,
+				19,
+				18,
+				17
+			]
+		],
+		"article_weight": [
+			3,
+			5,
+			2,
+			3,
+			2,
+			6,
+			5,
+			2,
+			7
+		],
+		"knapsack_capacity": [
+			9,
+			10
+		],
+		"num_x_bits": 18,
+		"num_y_bits": 8,
+		"optimal_solution": 105,
+		"num_optimal": 5
+	},
+	"scenario_19": {
+		"article_reward": [
+			[
+				18,
+				15,
+				15,
+				16,
+				17,
+				16,
+				19,
+				15,
+				17
+			],
+			[
+				18,
+				15,
+				16,
+				16,
+				16,
+				18,
+				15,
+				19,
+				15
+			]
+		],
+		"article_weight": [
+			1,
+			5,
+			1,
+			1,
+			5,
+			7,
+			7,
+			5,
+			3
+		],
+		"knapsack_capacity": [
+			8,
+			9
+		],
+		"num_x_bits": 18,
+		"num_y_bits": 8,
+		"optimal_solution": 103,
+		"num_optimal": 1
+	},
+	"scenario_20": {
+		"article_reward": [
+			[
+				19,
+				16,
+				19,
+				16,
+				19,
+				16
+			],
+			[
+				19,
+				16,
+				19,
+				16,
+				19,
+				16
+			],
+			[
+				19,
+				16,
+				19,
+				16,
+				19,
+				16
+			]
+		],
+		"article_weight": [
+			4,
+			6,
+			4,
+			6,
+			4,
+			6
+		],
+		"knapsack_capacity": [
+			9,
+			9,
+			9
+		],
+		"num_x_bits": 18,
+		"num_y_bits": 12,
+		"optimal_solution": 73,
+		"num_optimal": 54
+	},
+	"scenario_21": {
+		"article_reward": [
+			[
+				19,
+				16,
+				19,
+				17,
+				17,
+				19
+			],
+			[
+				16,
+				17,
+				19,
+				17,
+				18,
+				16
+			],
+			[
+				15,
+				16,
+				19,
+				17,
+				17,
+				19
+			]
+		],
+		"article_weight": [
+			7,
+			6,
+			7,
+			5,
+			5,
+			4
+		],
+		"knapsack_capacity": [
+			9,
+			10,
+			11
+		],
+		"num_x_bits": 18,
+		"num_y_bits": 12,
+		"optimal_solution": 92,
+		"num_optimal": 1
+	},
+	"scenario_22": {
+		"article_reward": [[16, 14, 16], [11, 18, 10]], "article_weight": [13, 26, 15], "assignments": 3, "gurobi_runtime": 0.11654305458068848, "knapsack_capacity": [33, 33], "number_of_articles": 3, "number_of_knapsacks": 2, "optimal_solution": 50.0
+	}
+}
