@@ -1,6 +1,5 @@
 ipykernel==6.25.2
 matplotlib==3.8.0
-pip==23.2.1
 PuLP==2.7.0
 pyqubo==1.4.0
 qiskit==0.44.1
